@@ -122,4 +122,4 @@ const jobLoader = async ({ params }) => {
   return data;
 };
 
-export { JobPage as default, jobLoader };
+export { JobPage as default, jobLoader};
